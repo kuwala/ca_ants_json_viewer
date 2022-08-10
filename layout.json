@@ -1,0 +1,32 @@
+{
+    "sim_layout_name": "Ant Farm",
+    "cycles_ran": "0",
+    "cell_size": 4,
+    "boards": [
+        {
+            "id": "1337",
+            "x": "10",
+            "y": "10",
+            "width": "6",
+            "height": "8",
+            "rule": "0"
+        },
+        {
+            "id": "2",
+            "x": "50",
+            "y": "10",
+            "width": "10",
+            "height": "8",
+            "rule": "0"
+        },
+        {
+            "id": "3",
+            "x": "100",
+            "y": "10",
+            "width": "4",
+            "height": "8",
+            "rule": "0"
+        }
+
+    ]
+}
